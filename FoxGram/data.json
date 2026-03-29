@@ -1,0 +1,64 @@
+{
+  "posts": [
+    {
+      "id": "p1",
+      "image": {
+        "name": "Morning Fox",
+        "date_taken": "2026-03-01",
+        "thumb": "https://images.unsplash.com/photo-1518791841217-8f162f1e1131?w=400&h=400&fit=crop",
+        "full": "https://images.unsplash.com/photo-1518791841217-8f162f1e1131?w=1600"
+      },
+      "author": {
+        "name": "LunaFox",
+        "photo": "https://randomuser.me/api/portraits/women/44.jpg",
+        "user_since": "2020-07-12",
+        "channel": "Luna's Trails"
+      }
+    },
+    {
+      "id": "p2",
+      "image": {
+        "name": "Forest Run",
+        "date_taken": "2026-02-15",
+        "thumb": "https://images.unsplash.com/photo-1504198453319-5ce911bafcde?w=400&h=400&fit=crop",
+        "full": "https://images.unsplash.com/photo-1504198453319-5ce911bafcde?w=1600"
+      },
+      "author": {
+        "name": "FennecFan",
+        "photo": "https://randomuser.me/api/portraits/men/46.jpg",
+        "user_since": "2019-11-03",
+        "channel": "Fennec Finds"
+      }
+    },
+    {
+      "id": "p3",
+      "image": {
+        "name": "Snow Paws",
+        "date_taken": "2025-12-24",
+        "thumb": "https://images.unsplash.com/photo-1502784444185-6486f1d4d0d3?w=400&h=400&fit=crop",
+        "full": "https://images.unsplash.com/photo-1502784444185-6486f1d4d0d3?w=1600"
+      },
+      "author": {
+        "name": "ArcticAly",
+        "photo": "https://randomuser.me/api/portraits/women/65.jpg",
+        "user_since": "2021-01-20",
+        "channel": "Arctic Adventures"
+      }
+    },
+    {
+      "id": "p4",
+      "image": {
+        "name": "Sunset Silhouette",
+        "date_taken": "2025-06-08",
+        "thumb": "https://images.unsplash.com/photo-1492447166138-50c3889fccb1?w=400&h=400&fit=crop",
+        "full": "https://images.unsplash.com/photo-1492447166138-50c3889fccb1?w=1600"
+      },
+      "author": {
+        "name": "CopperTrail",
+        "photo": "https://randomuser.me/api/portraits/men/12.jpg",
+        "user_since": "2018-05-30",
+        "channel": "Copper Trails"
+      }
+    }
+  ]
+}

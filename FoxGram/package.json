@@ -1,0 +1,13 @@
+{
+  "name": "foxgram",
+  "version": "0.1.0",
+  "private": true,
+  "description": "A small Lit-based Instagram-style feed (FoxGram)",
+  "scripts": {
+    "start": "node server.js",
+    "vercel-dev": "vercel dev"
+  },
+  "keywords": ["lit", "web-components", "foxgram"],
+  "author": "",
+  "license": "MIT"
+}
